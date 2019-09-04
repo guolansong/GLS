@@ -11,4 +11,8 @@ public class DemoController {
 		System.out.println("demo测试操作");
 	}
 	
+	public void show_bai() {
+		System.out.println("这是什么玩意");
+	}
+	
 }
